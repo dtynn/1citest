@@ -1,3 +1,3 @@
-image: bradrydzewski/python:2.7
+image: ubuntu:12.04
 script:
     - python --version
